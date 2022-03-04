@@ -3,4 +3,4 @@
 
 * [ЛР1.pdf](https://github.com/Deavarona/Testing-evaluation-software/files/8096504/1.pdf)
 * [ЛР2.pdf](https://github.com/Deavarona/Testing-evaluation-software/files/8097406/2.pdf)
-
+* [ЛР3.pdf](https://github.com/Deavarona/Testing-evaluation-software/files/8185871/3.pdf)
